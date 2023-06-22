@@ -1,0 +1,235 @@
+.icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 717px;
+  object-fit: cover;
+}
+.image1Icon,
+.image2Icon,
+.image3Icon,
+.image4Icon,
+.image5Icon {
+  position: absolute;
+  top: 717px;
+  left: 0;
+  width: 1440px;
+  height: 777px;
+  object-fit: cover;
+}
+.image2Icon,
+.image3Icon,
+.image4Icon,
+.image5Icon {
+  top: 1494px;
+  height: 800px;
+}
+.image3Icon,
+.image4Icon,
+.image5Icon {
+  top: 2294px;
+}
+.image4Icon,
+.image5Icon {
+  top: 3083px;
+  height: 782px;
+}
+.image5Icon {
+  top: 3865px;
+  height: 780.04px;
+}
+.sanskarPrintingPress {
+  position: absolute;
+  top: 130px;
+  left: 76px;
+  font-size: 98px;
+  font-weight: 800;
+  display: inline-block;
+  width: 996px;
+  height: 172px;
+}
+.image8Icon {
+  position: absolute;
+  top: 70px;
+  left: 970px;
+  width: 426px;
+  height: 464px;
+  object-fit: cover;
+}
+.buyNow,
+.callNow {
+  text-decoration: none;
+  position: absolute;
+  top: 487px;
+  font-weight: 800;
+  color: inherit;
+}
+.buyNow {
+  left: 161px;
+  display: inline-block;
+  width: 210px;
+  height: 80px;
+}
+.callNow {
+  left: 380px;
+}
+.image11Icon {
+  position: absolute;
+  top: 783px;
+  left: 736px;
+  width: 672px;
+  height: 645px;
+  object-fit: cover;
+}
+.desktop1Child,
+.image3Icon1,
+.image4Icon1 {
+  position: absolute;
+  top: 1708px;
+  left: 172px;
+  width: 261px;
+  height: 257px;
+  object-fit: cover;
+}
+.desktop1Child,
+.image4Icon1 {
+  top: 1684px;
+  left: 583px;
+  width: 274px;
+  height: 319.24px;
+}
+.desktop1Child {
+  top: 1693px;
+  left: 997px;
+  width: 279px;
+  height: 280px;
+}
+.desktop1Item {
+  left: 157px;
+  width: 256px;
+  height: 264px;
+}
+.desktop1Inner,
+.desktop1Item,
+.image12Icon {
+  position: absolute;
+  top: 2495px;
+  object-fit: cover;
+}
+.desktop1Inner {
+  left: 581px;
+  border-radius: 50%;
+  width: 268px;
+  height: 264px;
+}
+.image12Icon {
+  left: 1077px;
+  width: 245px;
+  height: 234px;
+}
+.youHaveTo {
+  margin: 0;
+}
+.youHaveToContainer {
+  top: 3326px;
+  left: 24px;
+  font-size: var(--font-size-31xl);
+  width: 696px;
+}
+.shahidSmarakPath,
+.shahidSmarakPath1,
+.youHaveToContainer {
+  position: absolute;
+  display: inline-block;
+  font-family: var(--font-inter);
+}
+.shahidSmarakPath {
+  top: 3626px;
+  left: 24px;
+  font-size: var(--font-size-31xl);
+  width: 791px;
+}
+.shahidSmarakPath1 {
+  top: 4021px;
+  left: 581px;
+  font-size: 28px;
+  width: 409px;
+}
+.a,
+.a1,
+.madeBySanskar {
+  position: absolute;
+  font-weight: 800;
+}
+.madeBySanskar {
+  top: 4531px;
+  left: 625px;
+  font-size: 47px;
+}
+.a,
+.a1 {
+  text-decoration: none;
+  left: 48px;
+  color: inherit;
+}
+.a {
+  top: 4039px;
+  display: inline-block;
+  width: 475px;
+  height: 86px;
+}
+.a1 {
+  top: 4082px;
+}
+.menuCard,
+.pamphlet,
+.shadiCard {
+  position: absolute;
+  top: 2000px;
+  left: 675px;
+  font-weight: 800;
+}
+.pamphlet,
+.shadiCard {
+  top: 2796px;
+  left: 192px;
+}
+.shadiCard {
+  top: 2780px;
+  left: 662px;
+}
+.birthdayCard {
+  top: 1973px;
+  left: 217px;
+  display: inline-block;
+  width: 184px;
+  height: 134px;
+}
+.birthdayCard,
+.idCard,
+.latterPad {
+  position: absolute;
+  font-weight: 800;
+}
+.idCard {
+  top: 1992px;
+  left: 1038px;
+  display: inline-block;
+  width: 182px;
+}
+.latterPad {
+  top: 2751px;
+  left: 1129px;
+}
+.desktop1 {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  height: 4651px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-20xl);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}
