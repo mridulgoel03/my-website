@@ -4,7 +4,7 @@ import {
   useNavigationType,
   useLocation,
 } from "react-router-dom";
-import Desktop1 from "./pages/Desktop1";
+import AndroidLarge1 from "./pages/AndroidLarge1";
 import { useEffect } from "react";
 
 function App() {
@@ -45,7 +45,7 @@ function App() {
 
   return (
     <Routes>
-      <Route path="/" element={<Desktop1 />} />
+      <Route path="/" element={<AndroidLarge1 />} />
     </Routes>
   );
 }

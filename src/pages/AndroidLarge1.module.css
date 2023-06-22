@@ -1,0 +1,257 @@
+.icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 363px;
+  height: 181px;
+  object-fit: cover;
+}
+.image13Icon,
+.image14Icon,
+.image15Icon,
+.image16Icon,
+.image17Icon {
+  position: absolute;
+  top: 181px;
+  left: 0;
+  width: 363px;
+  height: 195px;
+  object-fit: cover;
+}
+.image14Icon,
+.image15Icon,
+.image16Icon,
+.image17Icon {
+  top: 376px;
+  height: 202px;
+}
+.image15Icon,
+.image16Icon,
+.image17Icon {
+  top: 578px;
+  height: 201px;
+}
+.image16Icon,
+.image17Icon {
+  top: 777px;
+  height: 197px;
+}
+.image17Icon {
+  top: 974px;
+  height: 196px;
+}
+.sanskarPrintingPress {
+  position: absolute;
+  top: 33px;
+  left: 16px;
+  font-size: 23px;
+  font-weight: 800;
+  display: inline-block;
+  width: 251px;
+  height: 43px;
+}
+.image18Icon {
+  position: absolute;
+  top: 18px;
+  left: 241px;
+  width: 108px;
+  height: 117px;
+  object-fit: cover;
+}
+.buyNow,
+.callNow {
+  text-decoration: none;
+  position: absolute;
+  top: 123px;
+  left: 38px;
+  font-weight: 800;
+  color: inherit;
+  display: inline-block;
+  width: 52px;
+  height: 20px;
+}
+.callNow {
+  left: 93px;
+  width: 44px;
+  height: 15px;
+}
+.image19Icon {
+  position: absolute;
+  top: 197px;
+  left: 182px;
+  width: 170px;
+  height: 163px;
+  object-fit: cover;
+}
+.androidLarge1Child,
+.image20Icon,
+.image21Icon {
+  position: absolute;
+  top: 430px;
+  left: 40px;
+  width: 66px;
+  height: 65px;
+  object-fit: cover;
+}
+.androidLarge1Child,
+.image21Icon {
+  top: 424.18px;
+  left: 143.85px;
+  width: 69.02px;
+  height: 80.41px;
+}
+.androidLarge1Child {
+  top: 426px;
+  left: 248px;
+  width: 70px;
+  height: 71px;
+}
+.androidLarge1Item {
+  left: 37px;
+  width: 64px;
+  height: 67px;
+}
+.androidLarge1Inner,
+.androidLarge1Item,
+.image22Icon {
+  position: absolute;
+  top: 628px;
+  object-fit: cover;
+}
+.androidLarge1Inner {
+  left: 143px;
+  border-radius: 50%;
+  width: 68px;
+  height: 67px;
+}
+.image22Icon {
+  left: 268px;
+  width: 62px;
+  height: 59px;
+}
+.youHaveTo {
+  margin: 0;
+}
+.youHaveToContainer {
+  top: 838px;
+  left: 3px;
+  font-size: 13px;
+  width: 175px;
+  height: 61px;
+}
+.shahidSmarakPath,
+.shahidSmarakPath1,
+.youHaveToContainer {
+  position: absolute;
+  display: inline-block;
+  font-family: var(--font-inter);
+}
+.shahidSmarakPath {
+  top: 913px;
+  left: 3px;
+  font-size: 16px;
+  width: 199px;
+  height: 46px;
+}
+.shahidSmarakPath1 {
+  top: 1013px;
+  left: 143px;
+  font-size: var(--font-size-3xs);
+  width: 103px;
+  height: 26px;
+}
+.a,
+.a1,
+.madeBySanskar {
+  position: absolute;
+  font-weight: 800;
+  display: inline-block;
+}
+.madeBySanskar {
+  top: 1141px;
+  left: 154px;
+  font-size: 11px;
+  width: 196px;
+  height: 18px;
+}
+.a,
+.a1 {
+  text-decoration: none;
+  left: 9px;
+  color: inherit;
+}
+.a {
+  top: 1017px;
+  font-size: var(--font-size-3xs);
+  width: 120px;
+  height: 22px;
+}
+.a1 {
+  top: 1028px;
+  width: 80px;
+  height: 15px;
+}
+.birthdayCard,
+.idCard,
+.latterPad,
+.menuCard,
+.pamphlet,
+.shadiCard {
+  position: absolute;
+  top: 504px;
+  left: 167px;
+  font-weight: 800;
+  display: inline-block;
+  width: 31px;
+  height: 30px;
+}
+.birthdayCard,
+.idCard,
+.latterPad,
+.pamphlet,
+.shadiCard {
+  top: 704px;
+  left: 45px;
+  width: 50px;
+  height: 15px;
+}
+.birthdayCard,
+.idCard,
+.latterPad,
+.shadiCard {
+  top: 700px;
+  left: 164px;
+  width: 29px;
+  height: 30px;
+}
+.birthdayCard,
+.idCard,
+.latterPad {
+  top: 497px;
+  left: 52px;
+  width: 46px;
+  height: 34px;
+}
+.idCard,
+.latterPad {
+  top: 502px;
+  left: 258px;
+  height: 15px;
+}
+.latterPad {
+  top: 693px;
+  left: 281px;
+  width: 31px;
+  height: 30px;
+}
+.androidLarge1 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1170px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-4xs);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}
